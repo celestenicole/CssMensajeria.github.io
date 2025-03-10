@@ -1,3 +1,7 @@
+
+PRIMER DESAFIO:
+
+
 1. Se Utilizo flexbox para posicionar las dos columnas principales: la de contactos y la de
 sección principal.
 
